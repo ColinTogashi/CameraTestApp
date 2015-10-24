@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CameraTestApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="take_image">Take Image</string>
+</resources>
